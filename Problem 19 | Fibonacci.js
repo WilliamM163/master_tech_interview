@@ -10,4 +10,4 @@ function fibonacciRecursive(n) {
     if (n === 1) return 0
     if (n === 2) return 1
     return fibonacciRecursive(n-2) + fibonacciRecursive(n-1)
-} // Runtime: O(n), Memory: O(n)
+} // Runtime: O(2^n), Memory: O(n)

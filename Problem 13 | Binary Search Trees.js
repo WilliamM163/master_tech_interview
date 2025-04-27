@@ -54,3 +54,5 @@ class BinarySearchTree {
         return [...toArray(currentNode.left), currentNode.data, ...toArray(currentNode.right)]
     }
 }
+
+module.exports = BinarySearchTree

@@ -18,14 +18,14 @@ class Queue1 {
     }
 }
 
-const queue1 = new Queue1()
-queue1.enqueue(0)
-queue1.enqueue(1)
-queue1.enqueue(2)
-queue1.enqueue(3)
-console.log(queue1.toString())
-console.log(queue1.dequeue())
-console.log(queue1.toString())
+// const queue1 = new Queue1()
+// queue1.enqueue(0)
+// queue1.enqueue(1)
+// queue1.enqueue(2)
+// queue1.enqueue(3)
+// console.log(queue1.toString())
+// console.log(queue1.dequeue())
+// console.log(queue1.toString())
 
 class Queue2 {
     constructor() {
@@ -75,11 +75,13 @@ class Node {
     }
 }
 
-const queue2 = new Queue2()
-queue2.enqueue(0)
-queue2.enqueue(1)
-queue2.enqueue(2)
-queue2.enqueue(3)
-console.log(queue2.toString())
-console.log(queue2.dequeue())
-console.log(queue2.toString())
+// const queue2 = new Queue2()
+// queue2.enqueue(0)
+// queue2.enqueue(1)
+// queue2.enqueue(2)
+// queue2.enqueue(3)
+// console.log(queue2.toString())
+// console.log(queue2.dequeue())
+// console.log(queue2.toString())
+
+module.exports = Queue2

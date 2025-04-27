@@ -1,0 +1,3 @@
+- [ ] Bubble Sort
+- [ ] Insertion Sort
+- [ ] Heap Sort

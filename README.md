@@ -7,6 +7,7 @@ This course has ...
 - Equipped me with a structured approach to problem-solving, showing me how to think critically when faced with challenging coding questions, which will be a useful skill as I move on to LeetCode.
 
 ## The topics covered in the course:
+[Visual Diagram of Course Outline](https://coggle.it/diagram/W5u8QkZs6r4sZM3J/t/master-the-interview)
 - Getting the Interview
 - Big O Notation
 - Data Structures
